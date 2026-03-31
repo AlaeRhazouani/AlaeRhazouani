@@ -2,6 +2,7 @@
   <a href="https://linkedin.com/in/alae-rhazouani"><img src="https://img.shields.io/badge/LinkedIn-alae--rhazouani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alae.g@icloud.com"><img src="https://img.shields.io/badge/Email-alae.g%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AlaeRhazouani"><img src="https://img.shields.io/badge/GitHub-AlaeRhazouani-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AlaeRhazouani/AlaeRhazouani/blob/main/CV_Alae.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:alae.g@icloud.com"><img src="https://img.shields.io/badge/Open_to-PFA_Internship_2026-f97316?style=for-the-badge&logoColor=white" /></a>
 </p>
 
@@ -21,7 +22,7 @@
 
 ## About Me
 
-2nd-year **Software Engineering & Intelligent Systems** student at **ENSAM Meknes**, DevOps & Cloud Engineering enthusiast. I build CI/CD pipelines and containerized microservices — with hands-on experience deploying real systems to production. Currently deepening my knowledge in Kubernetes, infrastructure as code and cloud infrastructure.
+2nd-year **Software Engineering & Intelligent Systems** student at **ENSAM Meknes**, specializing in DevOps & Cloud Engineering. I build CI/CD pipelines, containerized microservices, and cloud infrastructure — with hands-on experience deploying real systems to production. Currently deepening my knowledge in Kubernetes and infrastructure as code.
 
 ---
 
@@ -77,12 +78,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaeRhazouani&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlaeRhazouani&theme=tokyonight" height="170" />
   <img src="https://streak-stats.demolab.com/?user=AlaeRhazouani&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaeRhazouani&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlaeRhazouani&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
