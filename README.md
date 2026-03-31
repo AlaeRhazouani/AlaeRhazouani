@@ -21,7 +21,7 @@
 
 ## About Me
 
-2nd-year **Software Engineering & Intelligent Systems** student at **ENSAM Meknes**, specializing in DevOps & Cloud Engineering. I build CI/CD pipelines, containerized microservices, and cloud infrastructure — with hands-on experience deploying real systems to production. Currently deepening my knowledge in Kubernetes and infrastructure as code.
+2nd-year **Software Engineering & Intelligent Systems** student at **ENSAM Meknes**, DevOps & Cloud Engineering enthusiast. I build CI/CD pipelines and containerized microservices — with hands-on experience deploying real systems to production. Currently deepening my knowledge in Kubernetes, infrastructure as code and cloud infrastructure.
 
 ---
 
