@@ -30,22 +30,22 @@
 
 ### DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,githubactions" />
 </p>
 
 ### Monitoring & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,wandb" />
 </p>
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,dart,nodejs,express,flask,django,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,dart,nodejs,express,flask,django,react,flutter,python,pytorch,opencv" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,gitlab" />
+  <img src="https://skillicons.dev/icons?i=figma,gitlab,jupyter" />
 </p>
 
 ---
@@ -73,6 +73,8 @@
 - **Urban Docs Mobile App — FESURBAN**
   Cross-platform Flutter app replacing a fully paper-based process for consulting urban planning documents at the Agence Urbaine de Fès.
 
+- **Facial Emotion Detection**
+  CNN trained on FER2013 to classify 7 emotions — happy, sad, angry, neutral, surprise, disgust, fear. Real-time webcam inference with MediaPipe + OpenCV, custom Grad-CAM for explainability. Automated GitHub Actions pipeline handles training validation and deploys a Streamlit demo to Hugging Face Spaces on every push.
 ---
 
 ## GitHub Stats
