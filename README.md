@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/alae-rhazouani"><img src="https://img.shields.io/badge/LinkedIn-alae--rhazouani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alae.g@icloud.com"><img src="https://img.shields.io/badge/Email-alae.g%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AlaeRhazouani"><img src="https://img.shields.io/badge/GitHub-AlaeRhazouani-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/AlaeRhazouani/AlaeRhazouani/blob/main/CV_Alae.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://github.com/AlaeRhazouani/AlaeRhazouani/blob/main/CV_Alae_vf.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:alae.g@icloud.com"><img src="https://img.shields.io/badge/Open_to-PFA_Internship_2026-f97316?style=for-the-badge&logoColor=white" /></a>
 </p>
 
