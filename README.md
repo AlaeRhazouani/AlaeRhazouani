@@ -4,6 +4,7 @@
   <a href="https://github.com/AlaeRhazouani"><img src="https://img.shields.io/badge/GitHub-AlaeRhazouani-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/AlaeRhazouani/AlaeRhazouani/blob/main/CV_Alae_vf.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:alae.g@icloud.com"><img src="https://img.shields.io/badge/Open_to-PFA_Internship_2026-f97316?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://alae-rhazouani.me/"><img src="https://img.shields.io/badge/Portfolio-alae--rhazouani.me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <h1 align="center">Hi there, I'm Alae Rhazouani</h1>
